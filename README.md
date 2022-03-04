@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
+From: 24 February 2022 - To: 03 March 2022
 
-Vue.js           18 hrs 47 mins  ██████████████████▒░░░░░░   73.55 %
-JavaScript       2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-PHP              2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-TypeScript       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Blade Template   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-CSS              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Vue.js           20 hrs 34 mins  ██████████████████▒░░░░░░   73.74 %
+JavaScript       4 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+TypeScript       1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+PHP              59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+CSS              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+SCSS             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
