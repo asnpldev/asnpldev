@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 17 April 2022
+From: 11 April 2022 - To: 18 April 2022
 
-Vue.js           12 hrs 20 mins  ███████████████████████▓░   94.66 %
-JavaScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-PHP              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-.env file        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-textmate         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Vue.js           12 hrs 12 mins  ████████████████████████▒   97.57 %
+JavaScript       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+.env file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
