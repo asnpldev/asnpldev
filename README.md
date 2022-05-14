@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
+From: 06 May 2022 - To: 13 May 2022
 
 Markdown         10 mins         █████████▓░░░░░░░░░░░░░░░   38.82 %
 Vue.js           6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
